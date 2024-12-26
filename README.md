@@ -45,5 +45,4 @@ This project demonstrates a simple phone book and message history application bu
 - **Input**: `senderPhone: Phone`
 - **Output**: `async ?Message` (returns the message or `null` if not found).
 
-## Getting Started
-### Prerequisites
+
